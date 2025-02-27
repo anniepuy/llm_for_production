@@ -1,0 +1,4 @@
+2025-01-15 13:39:27,907 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-01-15 13:39:28,102 - DEBUG - https://huggingface.co:443 "HEAD /facebook/opt-1.3b/resolve/main/config.json HTTP/1.1" 200 0
+2025-01-15 13:39:28,990 - INFO - Created a temporary directory at /var/folders/h7/8ktkp83d7dv1s7bmnhb0_8040000gn/T/tmp2g14x5v_
+2025-01-15 13:39:28,990 - INFO - Writing /var/folders/h7/8ktkp83d7dv1s7bmnhb0_8040000gn/T/tmp2g14x5v_/_remote_module_non_scriptable.py
